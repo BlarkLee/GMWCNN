@@ -13,4 +13,5 @@ To test a specific model, use validate_mwcnn.py, but make sure to change the con
 ## Visulization
 To visulize the segmentation map of the prediction, using visualize_mwcnn.ipynb, follow the instruction in the jupyter notebook file.
 
+Submitted Project Paper on 12/21/2020.
 
