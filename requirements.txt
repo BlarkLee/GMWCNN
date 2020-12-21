@@ -1,0 +1,15 @@
+matplotlib
+numpy
+# scipy
+torch
+torchvision
+tqdm
+# pydensecrf
+protobuf
+tensorboardX
+jupyter-tensorboard
+## test version
+Pillow==5.0.0
+scipy==1.0.1
+pyyaml
+
